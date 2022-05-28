@@ -1,7 +1,7 @@
 # Proyecto-ISPC-G1
 Repositorio para Proyecto integrador Aula 21 Grupo 1 ISPC 
 
-Primera vez que acceso al repositorio debo realizar estas dos acciones:
+Primera vez que accedo al repositorio debo realizar estas dos acciones:
 
 A.Configurar tu nombre de usuario de Git para cada repositorio en tu computadora
   Abrir consola Git Bash
