@@ -1,5 +1,5 @@
 from decimal import DivisionByZero
-
+#MEJORARRRRR!!!!!
 def sumar(valor1, valor2):
     total = int(valor1) + int(valor2)
     return total
