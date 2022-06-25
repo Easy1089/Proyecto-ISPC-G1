@@ -46,39 +46,39 @@ A.Configurar tu nombre de usuario de Git para cada repositorio en tu computadora
 
 ### Planificación del sprint | Sprint Planning Meeting
 
-	Objetivo: Definir qué funcionalidades, y cómo se van a incluir en el producto del sprint
-	Marca el inicio del sprint
-	Se divide en dos etapas: QUÉ y CÓMO
-	Duración: 1 día máx.
+  - Objetivo: Definir qué funcionalidades, y cómo se van a incluir en el producto del sprint
+  - Marca el inicio del sprint
+  - Se divide en dos etapas: QUÉ y CÓMO
+  - Duración: 1 día máx.
 
 ### Reunión diaria| Daily Scrum Meeting
 
-  Objetivo: Sincronización y colaboración del equipo Scrum
-  Ocurre cada 24 hs
-  Duración: 15 minutos máx.
-  Instancia de inspección: Progreso (qué es lo que se hizo, qué se va hacer y qué problemas se han encontrado. No es una reunión de reporte de estado al Scrum Master.)
+  - Objetivo: Sincronización y colaboración del equipo Scrum
+  - Ocurre cada 24 hs
+  - Duración: 15 minutos máx.
+  - Instancia de inspección: Progreso (qué es lo que se hizo, qué se va hacer y qué problemas se han encontrado. - No es una reunión de reporte de estado al Scrum Master.)
 
 ### Revisión del sprint | Sprint Review Meeting | Sprint Review
 
-  Objetivo: Comprobar y obtener feedback valioso del incremento del sprint.
-  Ocurre al final de cada sprint
-  Duración: 4 horas máx.
-  No es una demo, sino que el equipo presenta la funcionalidad terminada al PO (Product Owner) y demás interesados (stakeholders)
-  Debe estar presente el PO y participa todo el equipo.
-  Instancia de inspección: foco en el QUÉ (Producto)
+  - Objetivo: Comprobar y obtener feedback valioso del incremento del sprint.
+  - Ocurre al final de cada sprint
+  - Duración: 4 horas máx.
+  - No es una demo, sino que el equipo presenta la funcionalidad terminada al PO (Product Owner) y demás    interesados (stakeholders)
+  - Debe estar presente el PO y participa todo el equipo.
+  - Instancia de inspección: foco en el QUÉ (Producto)
 
 ### Retrospectiva | Sprint Retrospective Meeting
 
-  Objetivo: consolidar y afianzar las fortalezas del equipo y planificar acciones de mejora sobre los puntos débiles.
-  Ocurre luego de la revisión del sprint
-  Duración: 1-3 horas
-  Instancia de inspección: foco en el CÓMO (Proceso)
+  - Objetivo: consolidar y afianzar las fortalezas del equipo y planificar acciones de mejora sobre los puntos débiles.
+  - Ocurre luego de la revisión del sprint
+  - Duración: 1-3 horas
+  - Instancia de inspección: foco en el CÓMO (Proceso)
 
 ### Refinamiento:
 
-  Se realizar antes del primer sprint y luego reiteradamente en cada sprint
-  El objetivo: profundizar en el entendimiento de los PBIs que se encuentran en el Product Backlog y no se están realizando en el sprint actual.
-  La reunión puede utilizarse para:
+  - Se realizar antes del primer sprint y luego reiteradamente en cada sprint
+  - El objetivo: profundizar en el entendimiento de los PBIs que se encuentran en el Product Backlog y no se están realizando en el sprint actual.
+  - La reunión puede utilizarse para:
     * Escribir ítems del backlog
     * Descomponer ítems del backlog que son grandes (épicas)
     * Mejorar ítems del backlog pobremente escritos
