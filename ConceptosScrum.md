@@ -46,47 +46,47 @@ A.Configurar tu nombre de usuario de Git para cada repositorio en tu computadora
 
 ### Planificación del sprint | Sprint Planning Meeting
 
-  - Objetivo: Definir qué funcionalidades, y cómo se van a incluir en el producto del sprint
+  - **Objetivo:** Definir qué funcionalidades, y cómo se van a incluir en el producto del sprint
   - Marca el inicio del sprint
   - Se divide en dos etapas: QUÉ y CÓMO
   - Duración: 1 día máx.
 
 ### Reunión diaria| Daily Scrum Meeting
 
-  - Objetivo: Sincronización y colaboración del equipo Scrum
+  - **Objetivo:** Sincronización y colaboración del equipo Scrum
   - Ocurre cada 24 hs
   - Duración: 15 minutos máx.
   - Instancia de inspección: Progreso (qué es lo que se hizo, qué se va hacer y qué problemas se han encontrado. - No es una reunión de reporte de estado al Scrum Master.)
 
 ### Revisión del sprint | Sprint Review Meeting | Sprint Review
 
-  - Objetivo: Comprobar y obtener feedback valioso del incremento del sprint.
+  - **Objetivo:** Comprobar y obtener feedback valioso del incremento del sprint.
   - Ocurre al final de cada sprint
   - Duración: 4 horas máx.
   - No es una demo, sino que el equipo presenta la funcionalidad terminada al PO (Product Owner) y demás    interesados (stakeholders)
   - Debe estar presente el PO y participa todo el equipo.
-  - Instancia de inspección: foco en el QUÉ (Producto)
+  - Instancia de inspección: foco en el **QUÉ (Producto)**
 
 ### Retrospectiva | Sprint Retrospective Meeting
 
-  - Objetivo: consolidar y afianzar las fortalezas del equipo y planificar acciones de mejora sobre los puntos débiles.
+  - **Objetivo:** consolidar y afianzar las fortalezas del equipo y planificar acciones de mejora sobre los puntos débiles.
   - Ocurre luego de la revisión del sprint
   - Duración: 1-3 horas
-  - Instancia de inspección: foco en el CÓMO (Proceso)
+  - Instancia de inspección: foco en el **CÓMO (Proceso)**
 
 ### Refinamiento:
 
-  - Se realizar antes del primer sprint y luego reiteradamente en cada sprint
-  - El objetivo: profundizar en el entendimiento de los PBIs que se encuentran en el Product Backlog y no se están realizando en el sprint actual.
+  - Se realizar **antes del primer sprint** y luego **reiteradamente en cada sprint**
+  - El objetivo: **profundizar en el entendimiento de los PBIs** que se encuentran en el Product Backlog y no se están realizando en el sprint actual.
   - La reunión puede utilizarse para:
-    * Escribir ítems del backlog
-    * Descomponer ítems del backlog que son grandes (épicas)
-    * Mejorar ítems del backlog pobremente escritos
-    * Agregar criterios de aceptación
+    * **Escribir** ítems del backlog
+    * **Descomponer** ítems del backlog que son grandes (épicas)
+    * **Mejorar** ítems del backlog pobremente escritos
+    * **Agregar criterios de aceptación**
 
 ## Artefactos
 
-En el marco de trabajo Scrum, denominamos artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. Los tres principales artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
+En el marco de trabajo Scrum, denominamos artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. Los tres principales artefactos o herramientas Scrum son: el **Product Backlog**, **Sprint Backlog** y el **Incremento**.
 
 ### Product Backlog
 
@@ -124,5 +124,5 @@ En el marco de trabajo Scrum, denominamos artefacto a aquellos elementos físico
   lo que todo el mundo entiende dentro del equipo por terminado.
 
 ## Fuentes: 
-  https://agileando.com/que-son-los-artefactos-de-scrum/ 
-  https://www.viewnext.com/artefactos-scrum/ 
+  - (https://agileando.com/que-son-los-artefactos-de-scrum/)
+  - (https://www.viewnext.com/artefactos-scrum/)
