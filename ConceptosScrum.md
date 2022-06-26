@@ -31,10 +31,16 @@ A.Configurar tu nombre de usuario de Git para cada repositorio en tu computadora
   Verificar nombre ingresado
   $git config --global user.email
 
-### Installing
+### Integrantes Grupo 1
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+**Easy1089**
+**Aristo1986**
+**MateoAntunez7**
+**marceapaz**
+**Melisapaz**
+**AEugenia89**
+**Martonsioh**
+
 
 ## Ceremonias de Scrum
 
