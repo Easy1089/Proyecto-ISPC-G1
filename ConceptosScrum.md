@@ -31,17 +31,6 @@ A.Configurar tu nombre de usuario de Git para cada repositorio en tu computadora
   Verificar nombre ingresado
   $git config --global user.email
 
-### Integrantes Grupo 1
-
-**Easy1089**
-**Aristo1986**
-**MateoAntunez7**
-**marceapaz**
-**Melisapaz**
-**AEugenia89**
-**Martonsioh**
-
-
 ## Ceremonias de Scrum
 
 1.	Planificación del sprint | Sprint Planning Meeting 
