@@ -2,8 +2,8 @@
 Repositorio para Proyecto integrador Aula 21 Grupo 1 ISPC 
 
 # Sprint 0
-ConceptosScrum.md
-RESUMENG1.pdf
+* ConceptosScrum.md
+* RESUMENG1.pdf
 
 # Sprint 1
 * CV_Antunez_Mateo.pdf
