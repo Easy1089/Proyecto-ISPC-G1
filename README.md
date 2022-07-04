@@ -15,5 +15,6 @@ CV_Eugenia_Abregú.pdf
 CV_MarceloApaz.pdf
 cv-fbenitez-2022.pdf
 
-# Archivos sueltos: Practicas de cada integrante en cuanto a la configuracion de Git / Github y sus comandos de trabajo. 
+# Archivos sueltos
+Practicas de cada integrante en cuanto a la configuracion de Git / Github y sus comandos de trabajo. 
 
