@@ -78,3 +78,9 @@ INSERT INTO historial VALUES (7, '2022/04/02', 4022, 'básica', 4000);
 INSERT INTO historial VALUES (8, '2021/04/16', 3303, 'básica', 450);
 INSERT INTO historial VALUES (9, '2021/05/04', 3309, 'alta', 5000);
 INSERT INTO historial VALUES (10, '2022/03/23', 3300, 'básica', 4000);
+
+/* Actualice la fecha de nacimiento de algún animal (perro) que usted considere. Ejercicio 4. Fabiola Benitez*/
+UPDATE perro
+SET fecha_nacimiento='2006-08-03'
+WHERE nombre='lola'
+
