@@ -81,10 +81,17 @@ INSERT INTO historial VALUES (10, '2022/03/23', 3300, 'básica', 4000);
 
 /*7.Obtener los ingresos percibidos en Julio del 2022*/
 
+/*select * from historial
+where year(fecha) = 2022*/
+
+/*update historial set fecha = '2022-07-05' where id_historial in (3, 10)*/
+
 SELECT 
     YEAR(fecha) AS Ano, SUM(monto) AS Ingresos
 FROM
     historial
 WHERE
-    YEAR(fecha) = 2022
+    fecha BETWEEN '20220701' AND '20220731'
 GROUP BY YEAR(fecha)
+
+
