@@ -27,4 +27,4 @@ promedio = total / cantidadElementos
 if promedio > 4500:
     print("Se ha excedido del gasto promedio para su mascota")
 else:
-    print("El promedio de gastos es: ", round(promedio, 2))
+    print("El promedio de gastos es: ", round(promedio, 2)) 
