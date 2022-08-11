@@ -1,24 +1,20 @@
 # Proyecto-ISPC-G1
 Repositorio para Proyecto integrador Aula 21 Grupo 1 ISPC 
 
-Primera vez que accedo al repositorio debo realizar estas dos acciones:
+# Sprint 0
+* ConceptosScrum.md
+* RESUMENG1.pdf
 
-A.Configurar tu nombre de usuario de Git para cada repositorio en tu computadora
-  Abrir consola Git Bash
-  
-  Ejecutar el comando
-  $ git config --global user.name "Mona Lisa"
-  
-  Verificar nombre ingresado
-  $git config --global user.name
-  
- B.Configurar tu dirección de correo electrónico para cada repositorio en tu computadora
- 
-   Abrir consola Git Bash
-  
-  Ejecutar el comando
-  $ git config --global user.email "email@example.com"
-  
-  Verificar nombre ingresado
-  $git config --global user.email
- 
+# Sprint 1
+* CV_Antunez_Mateo.pdf
+* CV_AparicioFernando-2022.pdf
+* CV_ApazMelisa.pdf
+* CV_AriasMartin.pdf
+* CV_Dayana_Bernal.pdf
+* CV_Eugenia_Abregú.pdf
+* CV_MarceloApaz.pdf
+* cv-fbenitez-2022.pdf
+
+# Archivos sueltos
+Practicas de cada integrante en cuanto a la configuracion de Git / Github y sus comandos de trabajo. 
+
