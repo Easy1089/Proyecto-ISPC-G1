@@ -8,3 +8,5 @@ Clientes = ['Juan', 'Mario', 'Ariel', 'Josefina', 'Marianella']
 Clientes.sort()
 #Outputs: ['Ariel', 'Josefina', 'Juan', 'Marianella', 'Mario']
 print(Clientes)  
+
+
